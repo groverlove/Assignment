@@ -1,0 +1,7 @@
+div{ animation: changeBg 1s infinite; width:143px; height:100px;  }
+@keyframes changeBg{
+   0%,100%  {background-image: url("a.jpg");}
+   25% {background-image: url("b.jpg");}
+   50% {background-image: url("c.jpg");}
+   75% {background-image: url("d.jpg");}
+}
