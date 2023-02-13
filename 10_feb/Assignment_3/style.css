@@ -1,0 +1,32 @@
+.swap_ele
+{
+    display: flex;
+    justify-content: space-around;
+}
+.list , .swap
+ {
+    background-color: rgb(24, 127, 167);
+    border: 1px solid black;
+    height: 200px;
+    width: 40%;
+    margin: 10px;
+    text-align: center;
+}
+.btn {
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 8px;
+    font-size: 21px;
+    padding: 75px 20px 10px 20px;
+    border: none;
+
+}
+
+
+
+
+
+
+
